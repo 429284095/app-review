@@ -50,7 +50,6 @@ def choose(string):
 	else:
 		return False
 
-readcsv('fb.csv')
 
 
 
